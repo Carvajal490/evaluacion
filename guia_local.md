@@ -12,7 +12,7 @@ comando:
 - git init  
 depues habilitar la opcion del escritorio de ver documentos oculto si aparece esta bien
 proceso utilizado  
-![imagen 1](./evidencia/im1.pmg)
+![imagen 1](./evidencia/im1.png)
 
 
 
